@@ -11,3 +11,9 @@ O Framework Scrum é uma estrutura que é utilizada para poder controlar e execu
 
 # Pergunta 3
 Ocorreu pois não estava adicionado esse arquivo no repositório do Git, para resolver esse problema basta dar um (git add (mais o nome do arquivo)).
+
+# Pergunta 4
+Neste caso será criado um arquivo chamado de .gitignore e dentro deste arquivo vai ser adicionado toda as extensões necessárias que precisam ser desconsideradas quando realizado um commit.
+ 
+
+ 
