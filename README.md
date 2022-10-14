@@ -14,6 +14,10 @@ Ocorreu pois não estava adicionado esse arquivo no repositório do Git, para re
 
 # Pergunta 4
 Neste caso será criado um arquivo chamado de .gitignore e dentro deste arquivo vai ser adicionado toda as extensões necessárias que precisam ser desconsideradas quando realizado um commit.
- 
+
+# Pergunta 5
+O Product Owner, é responsável por definir e editar todas as tarefas de uma Scrum, ele vai direcionar todas as Sprints, vai dividir para cada membro e realizar a manutenção diária dessas Sprints. Ele é responsável por redirecionar as novas melhorias, correção de alguma funcionalidade e até mesmo alguns bugs, tendo como objetivo final realizar a entrega destas mesmas.
+
+
 
  
