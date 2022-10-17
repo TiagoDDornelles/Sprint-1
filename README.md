@@ -25,4 +25,6 @@ Respostas das perguntas : (1 - D, 2 - B, 3 - D, 4 - A, 5 - D)
 # Pergunta 7
 Nesta tarefa foi realizada a validação de um usuário e senha, caso seja preenchido corretamente o usuário vai receber um retorno na tela em qual período do dia ele acessou. Para esta aplicação foi informado para usuario: admin
 senha: 123456
- 
+
+# Pergunta 8
+Nesta tarefa foi feito um programa para cadastrar a quantidade de funcionario de uma empresa, armazenando o nome o salário de ambos, após cadastrar os funcionarios será calculado o bônus, desconto e o salário Liquido conforme o valor informado por ambos. 
