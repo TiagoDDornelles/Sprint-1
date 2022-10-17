@@ -22,5 +22,7 @@ O Product Owner, é responsável por definir e editar todas as tarefas de uma Sc
 Foi realizado nesta tarefa, a criação de 5 perguntas onde o usuário vai precisar informar seu nome e em seguida vai aparecer as perguntas sende necessário preencher entre as alternativas da letra A até D. No final de todas as perguntas respondidas vai ser finalizado o programa apresentando o resultado de acertos do mesmo.
 Respostas das perguntas : (1 - D, 2 - B, 3 - D, 4 - A, 5 - D)
 
-
+# Pergunta 7
+Nesta tarefa foi realizada a validação de um usuário e senha, caso seja preenchido corretamente o usuário vai receber um retorno na tela em qual período do dia ele acessou. Para esta aplicação foi informado para usuario: admin
+senha: 123456
  
