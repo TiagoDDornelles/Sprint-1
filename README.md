@@ -18,6 +18,9 @@ Neste caso será criado um arquivo chamado de .gitignore e dentro deste arquivo 
 # Pergunta 5
 O Product Owner, é responsável por definir e editar todas as tarefas de uma Scrum, ele vai direcionar todas as Sprints, vai dividir para cada membro e realizar a manutenção diária dessas Sprints. Ele é responsável por redirecionar as novas melhorias, correção de alguma funcionalidade e até mesmo alguns bugs, tendo como objetivo final realizar a entrega destas mesmas.
 
+# Pergunta 6
+Foi realizado nesta tarefa, a criação de 5 perguntas onde o usuário vai precisar informar seu nome e em seguida vai aparecer as perguntas sende necessário preencher entre as alternativas da letra A até D. No final de todas as perguntas respondidas vai ser finalizado o programa apresentando o resultado de acertos do mesmo.
+Respostas das perguntas : (1 - D, 2 - B, 3 - D, 4 - A, 5 - D)
 
 
  
